@@ -1,4 +1,4 @@
-# [The Multiverse Vault](https://skylandersnfc.github.io/LEGO-Dimensions-NFC/)
+# [Dimensions: The Multiverse Vault](https://skylandersnfc.github.io/LEGO-Dimensions-NFC/)
 
 A collection of Dimensions NFC resources, tools, and everything you need to create them. 
 
