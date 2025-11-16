@@ -1,6 +1,6 @@
 # Dimensions NFC Pack
 
-<img src="https://raw.githubusercontent.com/skylandersNFC/LEGO-Dimensions-NFC/main/Dimensions_NFC_Pack/Dimensions-NFC-Pack.jpg" width="500" height="500">
+<img src="https://raw.githubusercontent.com/skylandersNFC/LEGO-Dimensions-NFC/main/Dimensions_NFC_Pack/Dimensions-NFC-Pack.jpg">
 
 ---------------------------------------------------
 
